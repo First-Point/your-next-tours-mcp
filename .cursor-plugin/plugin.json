@@ -1,0 +1,21 @@
+{
+  "name": "your-next-tours",
+  "version": "1.0.0",
+  "description": "Manage your Your Next Tours account from Cursor: tour templates, travel programs, trips and participants for audio-guided tours. Tour companies can also edit their website.",
+  "author": {
+    "name": "Your Next Tours"
+  },
+  "homepage": "https://yournext.tours/ai-assistant-integration/",
+  "repository": "https://github.com/First-Point/your-next-tours-mcp",
+  "license": "MIT",
+  "keywords": [
+    "tours",
+    "travel",
+    "tour-guide",
+    "tour-operator",
+    "itinerary",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "./mcp.json"
+}
