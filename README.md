@@ -27,6 +27,21 @@ an API key that explicitly includes those scopes.
 
 ## Install
 
+**Easiest: ask your AI assistant.** Paste this prompt into Cursor, Claude Code, VS Code (Copilot
+agent mode) or any assistant that can edit its own MCP settings:
+
+```text
+Add the Your Next Tours MCP server to my MCP configuration.
+Server name: your-next-tours
+Transport: Streamable HTTP
+URL: https://api.yournext.tours/api/mcp/guide
+It uses OAuth sign-in, so do not add any API key or Authorization header.
+After adding it, tell me how to reload the MCP servers so I can sign in with my
+Your Next Tours account in the browser window that opens.
+```
+
+Or set it up yourself:
+
 **Cursor:** install the plugin from the Cursor Marketplace, or add to `~/.cursor/mcp.json`:
 
 ```json
