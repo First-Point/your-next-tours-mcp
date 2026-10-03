@@ -1,5 +1,7 @@
 # Your Next Tours MCP
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/first-point/your-next-tours-mcp)
+
 Connect your AI assistant to your [Your Next Tours](https://yournext.tours) account. Your Next
 Tours is a phone-based audio system for tour groups: the guide talks into the app, participants
 listen from their own phones. This connector lets you prepare and manage everything around your
